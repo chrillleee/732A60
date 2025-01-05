@@ -6,3 +6,4 @@
 - [Seminariam 4](./sem4.md)
 - [Seminariam 5](./sem5.md)
 - [Seminariam 7](./sem7.md)
+- [Project](./project.pdf)
