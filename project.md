@@ -1,6 +1,6 @@
 ---
-title: "My title"
-subtitle: "Literature search, search engines"
+title: "Impact of AI-based tools on Literature search in research "
+subtitle: "Subject: Literature search, search engines"
 bibliography: references.bib
 author: Christian Jonsson, chjon338@student.liu.se
 date: "2025-01-05"
