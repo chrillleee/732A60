@@ -1,4 +1,8 @@
 # 732A60
+This is my submissions for the course 732A60.
+
+Everything is written in markdown, but the project is generated to a LaTex like pdf using pandoc.   
+
 ## Overview
 - [Seminariam 1](./sem1.md)
 - [Seminariam 2](./sem2.md)
